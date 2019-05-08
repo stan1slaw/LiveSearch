@@ -1,0 +1,6 @@
+.elastic li.hide{
+ display: none;
+}
+input[type='text'] {
+    width: 1000px;
+}
