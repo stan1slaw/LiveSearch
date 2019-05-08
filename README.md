@@ -1,2 +1,3 @@
 # LiveSearch
-LiveSearch on JavaScrip
+LiveSearch on JavaScript
+Without frameworks
